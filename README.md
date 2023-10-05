@@ -1,6 +1,6 @@
 # Journal Club
 
-Notes for papers read in the MIT Medical Vision Group's [journal club](https://groups.csail.mit.edu/vision/golland/group_meeting/doku.php).
+Notes for papers read in the MIT Medical Vision Group's [journal club](https://groups.csail.mit.edu/vision/golland/group_meeting/doku.php) (open to the public!).
 
 ## Fall 2023
 
